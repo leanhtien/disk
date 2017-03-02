@@ -1,1 +1,1 @@
-# Huong dan git co ban
+# Project get infomartion HDD
